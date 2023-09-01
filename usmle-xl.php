@@ -6,20 +6,15 @@
  * admin area. This file also includes all of the dependencies used by the plugin,
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
- *
- * @link              http://usmle-xl.com
- * @since             1.0.0
- * @package           Usmle-XL
- *
+
  * @wordpress-plugin
- * Plugin Name: Usmle-XL
- * Description: Plugin to Usmle-XL question / answers.
- * Author: Usmle-XL
- * Author URI: https://usmle-xl.com
+ * Plugin Name: WP-QM-LMS
+ * Description: QM LMS Plugin 
+ * Author: Qode Maker
+ * Author URI: https://qodemaker.com
  * Version: 1.0
- * Plugin URI: https://www.usmle-xl.com/
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:           GPL-3.0
+ * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:       plugin-name
  * Domain Path:       /languages
  */
